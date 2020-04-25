@@ -1,5 +1,5 @@
 {
-  "name": "simple-express-restful-api",
+  "name": "express-api-covid",
   "version": "0.0.0",
   "private": true,
   "scripts": {
